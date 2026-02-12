@@ -1,0 +1,4 @@
+repository "Autorunner Game/Autorunner Game@1375890170286@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,3434 @@
+fileFormatVersion: 2
+guid: 1f411a61ab3beab4b9f7aa11f603f757
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7612515468853352417
+    second: Kirby basic 2_0
+  - first:
+      213: -4329954692538711587
+    second: Kirby basic 2_1
+  - first:
+      213: -6333510295025314539
+    second: Kirby basic 2_2
+  - first:
+      213: 5926460984790863196
+    second: Kirby basic 2_3
+  - first:
+      213: -8857934507121044005
+    second: Kirby basic 2_4
+  - first:
+      213: -4548310384442760057
+    second: Kirby basic 2_5
+  - first:
+      213: -6675479363488048081
+    second: Kirby basic 2_6
+  - first:
+      213: -3488448831826474786
+    second: Kirby basic 2_7
+  - first:
+      213: -4022564240755647119
+    second: Kirby basic 2_8
+  - first:
+      213: 7392463508772482349
+    second: Kirby basic 2_9
+  - first:
+      213: 817284967628198228
+    second: Kirby basic 2_10
+  - first:
+      213: -333412405001597631
+    second: Kirby basic 2_11
+  - first:
+      213: 1059032189976766315
+    second: Kirby basic 2_12
+  - first:
+      213: -5941610036520656921
+    second: Kirby basic 2_13
+  - first:
+      213: -7438679136152099021
+    second: Kirby basic 2_14
+  - first:
+      213: -7517873256278035198
+    second: Kirby basic 2_15
+  - first:
+      213: 8784901470877873473
+    second: Kirby basic 2_16
+  - first:
+      213: 6259924189943741024
+    second: Kirby basic 2_17
+  - first:
+      213: -7385356313955221713
+    second: Kirby basic 2_18
+  - first:
+      213: -3562603670476628276
+    second: Kirby basic 2_19
+  - first:
+      213: 1455297201660124113
+    second: Kirby basic 2_20
+  - first:
+      213: -4300387173619541880
+    second: Kirby basic 2_21
+  - first:
+      213: -7063740367931067005
+    second: Kirby basic 2_22
+  - first:
+      213: -2070074156589552638
+    second: Kirby basic 2_23
+  - first:
+      213: -2214493253809077972
+    second: Kirby basic 2_24
+  - first:
+      213: 4156974040903633458
+    second: Kirby basic 2_25
+  - first:
+      213: -8117718566481314962
+    second: Kirby basic 2_26
+  - first:
+      213: -5112603076525954918
+    second: Kirby basic 2_27
+  - first:
+      213: -8595081004517153234
+    second: Kirby basic 2_28
+  - first:
+      213: 9054413101626839910
+    second: Kirby basic 2_29
+  - first:
+      213: -6532471102007607802
+    second: Kirby basic 2_30
+  - first:
+      213: 6596216784654553223
+    second: Kirby basic 2_31
+  - first:
+      213: -5151551687887174078
+    second: Kirby basic 2_32
+  - first:
+      213: -3588799579039582877
+    second: Kirby basic 2_33
+  - first:
+      213: 6876711217743234677
+    second: Kirby basic 2_34
+  - first:
+      213: -3617496111329710011
+    second: Kirby basic 2_35
+  - first:
+      213: 4950511893610479549
+    second: Kirby basic 2_36
+  - first:
+      213: -2710261752699098383
+    second: Kirby basic 2_37
+  - first:
+      213: -6104390380514178036
+    second: Kirby basic 2_38
+  - first:
+      213: -2553227432266008582
+    second: Kirby basic 2_39
+  - first:
+      213: 1385155817149754061
+    second: Kirby basic 2_40
+  - first:
+      213: 4385030657684901513
+    second: Kirby basic 2_41
+  - first:
+      213: 7687158272804458392
+    second: Kirby basic 2_42
+  - first:
+      213: -2055474481927046546
+    second: Kirby basic 2_43
+  - first:
+      213: 6660714545455541450
+    second: Kirby basic 2_44
+  - first:
+      213: 1142171738139809604
+    second: Kirby basic 2_45
+  - first:
+      213: -6680673649178268728
+    second: Kirby basic 2_46
+  - first:
+      213: -2150620319673187172
+    second: Kirby basic 2_47
+  - first:
+      213: 6567744609236623573
+    second: Kirby basic 2_48
+  - first:
+      213: -6217006385774727571
+    second: Kirby basic 2_49
+  - first:
+      213: -3281454997876403563
+    second: Kirby basic 2_50
+  - first:
+      213: -8633767357405681311
+    second: Kirby basic 2_51
+  - first:
+      213: -206648663223777988
+    second: Kirby basic 2_52
+  - first:
+      213: 1586292481306193881
+    second: Kirby basic 2_53
+  - first:
+      213: 4555010676301626449
+    second: Kirby basic 2_54
+  - first:
+      213: 7411317586266215552
+    second: Kirby basic 2_55
+  - first:
+      213: 7942763161477042264
+    second: Kirby basic 2_56
+  - first:
+      213: 6252611252400262917
+    second: Kirby basic 2_57
+  - first:
+      213: 6102977619634210046
+    second: Kirby basic 2_58
+  - first:
+      213: 2307672755273027523
+    second: Kirby basic 2_59
+  - first:
+      213: -6444435796174869374
+    second: Kirby basic 2_60
+  - first:
+      213: 4803078462822849744
+    second: Kirby basic 2_61
+  - first:
+      213: -7048939202625004050
+    second: Kirby basic 2_62
+  - first:
+      213: 4222491143241922412
+    second: Kirby basic 2_63
+  - first:
+      213: 3695089639891293208
+    second: Kirby basic 2_64
+  - first:
+      213: -5669094354632938391
+    second: Kirby basic 2_65
+  - first:
+      213: -2525956078351582987
+    second: Kirby basic 2_66
+  - first:
+      213: 5493135784989766097
+    second: Kirby basic 2_67
+  - first:
+      213: -6136273105853338682
+    second: Kirby basic 2_68
+  - first:
+      213: 8561633181697733262
+    second: Kirby basic 2_69
+  - first:
+      213: -4440476695137863955
+    second: Kirby basic 2_70
+  - first:
+      213: -7976771486696270107
+    second: Kirby basic 2_71
+  - first:
+      213: -4197834382427608946
+    second: Kirby basic 2_72
+  - first:
+      213: -4872392251457665501
+    second: Kirby basic 2_73
+  - first:
+      213: -2697805753291961975
+    second: Kirby basic 2_74
+  - first:
+      213: 4014723957842967600
+    second: Kirby basic 2_75
+  - first:
+      213: -806096412803026808
+    second: Kirby basic 2_76
+  - first:
+      213: 1929589379732770123
+    second: Kirby basic 2_77
+  - first:
+      213: 8176363495099339517
+    second: Kirby basic 2_78
+  - first:
+      213: -5026872792988687660
+    second: Kirby basic 2_79
+  - first:
+      213: -6890133888641634445
+    second: Kirby basic 2_80
+  - first:
+      213: -5416570121740040374
+    second: Kirby basic 2_81
+  - first:
+      213: -8461188403067948690
+    second: Kirby basic 2_82
+  - first:
+      213: 7941418342705875141
+    second: Kirby basic 2_83
+  - first:
+      213: -4369518623685726132
+    second: Kirby basic 2_84
+  - first:
+      213: -1514223985688250068
+    second: Kirby basic 2_85
+  - first:
+      213: 6942081527278912838
+    second: Kirby basic 2_86
+  - first:
+      213: 4942972154437371197
+    second: Kirby basic 2_87
+  - first:
+      213: -1769936496048302848
+    second: Kirby basic 2_88
+  - first:
+      213: -4541333182234605589
+    second: Kirby basic 2_89
+  - first:
+      213: -1398296364030948148
+    second: Kirby basic 2_90
+  - first:
+      213: 2690730409023479941
+    second: Kirby basic 2_91
+  - first:
+      213: -8661513077691396559
+    second: Kirby basic 2_92
+  - first:
+      213: 7117338472576847324
+    second: Kirby basic 2_93
+  - first:
+      213: -6372167559865269175
+    second: Kirby basic 2_94
+  - first:
+      213: -4727123198581880589
+    second: Kirby basic 2_95
+  - first:
+      213: 1261223505626835130
+    second: Kirby basic 2_96
+  - first:
+      213: -4412261384172127033
+    second: Kirby basic 2_97
+  - first:
+      213: 5152069470047544926
+    second: Kirby basic 2_98
+  - first:
+      213: 2355229858363294156
+    second: Kirby basic 2_99
+  - first:
+      213: 6659834439739570012
+    second: Kirby basic 2_100
+  - first:
+      213: 3820149748104577871
+    second: Kirby basic 2_101
+  - first:
+      213: 5084436348521822675
+    second: Kirby basic 2_102
+  - first:
+      213: -6293819961280422530
+    second: Kirby basic 2_103
+  - first:
+      213: -3288705795157592901
+    second: Kirby basic 2_104
+  - first:
+      213: 553632844197774680
+    second: Kirby basic 2_105
+  - first:
+      213: 8514864562626483165
+    second: Kirby basic 2_106
+  - first:
+      213: 8786094282496370596
+    second: Kirby basic 2_107
+  - first:
+      213: -2558705262159422089
+    second: Kirby basic 2_108
+  - first:
+      213: 8485916984302294977
+    second: Kirby basic 2_109
+  - first:
+      213: -2396099748134053229
+    second: Kirby basic 2_110
+  - first:
+      213: 371639047695727688
+    second: Kirby basic 2_111
+  - first:
+      213: 4100950007911230204
+    second: Kirby basic 2_112
+  - first:
+      213: 5757287106917374102
+    second: Kirby basic 2_113
+  - first:
+      213: -3860669199648084731
+    second: Kirby basic 2_114
+  - first:
+      213: 2396703233972753750
+    second: Kirby basic 2_115
+  - first:
+      213: 1120362075703136684
+    second: Kirby basic 2_116
+  - first:
+      213: 9114591914920069873
+    second: Kirby basic 2_117
+  - first:
+      213: 1746668412480300383
+    second: Kirby basic 2_118
+  - first:
+      213: -3123220685000779157
+    second: Kirby basic 2_119
+  - first:
+      213: 3796847058558612399
+    second: Kirby basic 2_120
+  - first:
+      213: -5557942952252916369
+    second: Kirby basic 2_121
+  - first:
+      213: 3960670600903169635
+    second: Kirby basic 2_122
+  - first:
+      213: 4432021415201404772
+    second: Kirby basic 2_123
+  - first:
+      213: 9038398498247023904
+    second: Kirby basic 2_124
+  - first:
+      213: -4830613867065750553
+    second: Kirby basic 2_125
+  - first:
+      213: -8876961036537726212
+    second: Kirby basic 2_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kirby basic 2_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 509
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e79b207c7615a960800000000000000
+      internalID: 7612515468853352417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 519
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1c1b1f529e8e3c0800000000000000
+      internalID: -4329954692538711587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 509
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5159cbb61f9da18a0800000000000000
+      internalID: -6333510295025314539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 489
+        width: 537
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dcbadadd40f3250800000000000000
+      internalID: 5926460984790863196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 461
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd510634f7b421580800000000000000
+      internalID: -8857934507121044005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 461
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784a117adc721e0c0800000000000000
+      internalID: -4548310384442760057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 461
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c18d913eeeb53a0800000000000000
+      internalID: -6675479363488048081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_7
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 461
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed84bd1254a869fc0800000000000000
+      internalID: -3488448831826474786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_8
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 461
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d129fa22bfc28c0800000000000000
+      internalID: -4022564240755647119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 461
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2deb6fe46e479660800000000000000
+      internalID: 7392463508772482349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 461
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451debf0954975b00800000000000000
+      internalID: 817284967628198228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_11
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dcb242f2b7f5bf0800000000000000
+      internalID: -333412405001597631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67e4417a2072be00800000000000000
+      internalID: 1059032189976766315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef5a4bd6292b8da0800000000000000
+      internalID: -5941610036520656921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 426
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376b8bccb084c890800000000000000
+      internalID: -7438679136152099021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 426
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2057325da162ba790800000000000000
+      internalID: -7517873256278035198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 426
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1457b76e75d3ae970800000000000000
+      internalID: 8784901470877873473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 430
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ab87e52e7bfd650800000000000000
+      internalID: 6259924189943741024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 430
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fb20fcf81f18990800000000000000
+      internalID: -7385356313955221713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_19
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 430
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccedcb156d61f8ec0800000000000000
+      internalID: -3562603670476628276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 426
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db529b2811423410800000000000000
+      internalID: 1455297201660124113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 426
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888d2c766a4f154c0800000000000000
+      internalID: -4300387173619541880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 426
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385b1e78f8d88fd90800000000000000
+      internalID: -7063740367931067005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c63c5b58e9543e0800000000000000
+      internalID: -2070074156589552638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2106395e1a8441e0800000000000000
+      internalID: -2214493253809077972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 425
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ac4989dd980b930800000000000000
+      internalID: 4156974040903633458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bb94a29f1185f80800000000000000
+      internalID: -8117718566481314962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_27
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98e912f6926c09b0800000000000000
+      internalID: -5112603076525954918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e262c067d5328b880800000000000000
+      internalID: -8595081004517153234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 399
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6635c1c5ebcb7ad70800000000000000
+      internalID: 9054413101626839910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 399
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ef45ba4200855a0800000000000000
+      internalID: -6532471102007607802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 399
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780ddc6a7387a8b50800000000000000
+      internalID: 6596216784654553223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 403
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246cb61b8030288b0800000000000000
+      internalID: -5151551687887174078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 403
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36536411cc5023ec0800000000000000
+      internalID: -3588799579039582877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_34
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 403
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576878c0b6cfe6f50800000000000000
+      internalID: 6876711217743234677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_35
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 399
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540f5dbf3721ccdc0800000000000000
+      internalID: -3617496111329710011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_36
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 399
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfbffa9650c3b440800000000000000
+      internalID: 4950511893610479549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_37
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 399
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faea06ab47336ad0800000000000000
+      internalID: -2710261752699098383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_38
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c04279a49d84ba0800000000000000
+      internalID: -6104390380514178036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_39
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7700d8d2d119cd0800000000000000
+      internalID: -2553227432266008582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_40
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae6c770ef093310800000000000000
+      internalID: 1385155817149754061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e81887622cadc30800000000000000
+      internalID: 4385030657684901513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f07b688b54eaa60800000000000000
+      internalID: 7687158272804458392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_43
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6abbdb59dc7973e0800000000000000
+      internalID: -2055474481927046546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acca720d69c9f6c50800000000000000
+      internalID: 6660714545455541450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4475054f42fc9df00800000000000000
+      internalID: 1142171738139809604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_46
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbaa6836ba7943a0800000000000000
+      internalID: -6680673649178268728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 362
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c948427b6367722e0800000000000000
+      internalID: -2150620319673187172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 362
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d02909bce0552b50800000000000000
+      internalID: 6567744609236623573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_49
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 362
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eef8991a1c8b9a0800000000000000
+      internalID: -6217006385774727571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_50
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929529b01ee572d0800000000000000
+      internalID: -3281454997876403563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169a8740552be2880800000000000000
+      internalID: -8633767357405681311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 358
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35cc3bb226d12df0800000000000000
+      internalID: -206648663223777988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_53
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe0227b94a30610800000000000000
+      internalID: 1586292481306193881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_54
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cf11d9316a63f30800000000000000
+      internalID: 4555010676301626449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_55
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 356
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084d00fe31a4ad660800000000000000
+      internalID: 7411317586266215552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_56
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 322
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d5e6430d5a3e60800000000000000
+      internalID: 7942763161477042264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_57
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 322
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f8de96eccb5c650800000000000000
+      internalID: 6252611252400262917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 322
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4c4726fc122b450800000000000000
+      internalID: 6102977619634210046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 322
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf45e3f420860020800000000000000
+      internalID: 2307672755273027523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 322
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6f2799c3c096a0800000000000000
+      internalID: -6444435796174869374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_61
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 322
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc92e40a66f7a240800000000000000
+      internalID: 4803078462822849744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_62
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 322
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed163064232d2e90800000000000000
+      internalID: -7048939202625004050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 322
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67fa24b25d499a30800000000000000
+      internalID: 4222491143241922412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_64
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 322
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81452f63378974330800000000000000
+      internalID: 3695089639891293208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_65
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 322
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c6ee978b45351b0800000000000000
+      internalID: -5669094354632938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_66
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 322
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f87d9f645002fcd0800000000000000
+      internalID: -2525956078351582987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d13d4f74e98b3c40800000000000000
+      internalID: 5493135784989766097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 288
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb24d02f1497daa0800000000000000
+      internalID: -6136273105853338682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e827a4c640801d670800000000000000
+      internalID: 8561633181697733262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_70
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 288
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de638e0f8f14062c0800000000000000
+      internalID: -4440476695137863955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_71
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 288
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e611097890dc4190800000000000000
+      internalID: -7976771486696270107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_72
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 288
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e882b79cedb4eb5c0800000000000000
+      internalID: -4197834382427608946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_73
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 288
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260085ff09c16cb0800000000000000
+      internalID: -4872392251457665501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_74
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 288
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989070206f77f8ad0800000000000000
+      internalID: -2697805753291961975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_75
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cfa723b2a27b730800000000000000
+      internalID: 4014723957842967600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880b82c559b20d4f0800000000000000
+      internalID: -806096412803026808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_77
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d8655415747ca10800000000000000
+      internalID: 1929589379732770123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_78
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 249
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df21edf4747487170800000000000000
+      internalID: 8176363495099339517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_79
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 249
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d265da04d5fc3ab0800000000000000
+      internalID: -5026872792988687660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f62a8dbb35160a0800000000000000
+      internalID: -6890133888641634445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_81
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 249
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47c0b82c2a74d4b0800000000000000
+      internalID: -5416570121740040374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_82
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61fa790af1d39a80800000000000000
+      internalID: -8461188403067948690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_83
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 249
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c841c148e5953e60800000000000000
+      internalID: 7941418342705875141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_84
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 249
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4032c366f95c53c0800000000000000
+      internalID: -4369518623685726132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_85
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 249
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29fca6ce456cfae0800000000000000
+      internalID: -1514223985688250068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 212
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645c24b4e5a375060800000000000000
+      internalID: 6942081527278912838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_87
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 213
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3503e74cf6f89440800000000000000
+      internalID: 4942972154437371197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_88
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 215
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0059a06622cef67e0800000000000000
+      internalID: -1769936496048302848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_89
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 214
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be746322881f9f0c0800000000000000
+      internalID: -4541333182234605589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_90
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 214
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc073b8dd0489ce0800000000000000
+      internalID: -1398296364030948148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_91
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 215
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580af280d05675520800000000000000
+      internalID: 2690730409023479941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 215
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ecdca1fbf1cc780800000000000000
+      internalID: -8661513077691396559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 212
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd0a2ca1add5c260800000000000000
+      internalID: 7117338472576847324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_94
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 212
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94486f09d538197a0800000000000000
+      internalID: -6372167559865269175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_95
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 214
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8c40b0f72e56eb0800000000000000
+      internalID: -4727123198581880589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_96
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 213
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8a24b9814c08110800000000000000
+      internalID: 1261223505626835130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_97
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 212
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3f34f5af74c2c0800000000000000
+      internalID: -4412261384172127033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_98
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 164
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a15cd2e3df7740800000000000000
+      internalID: 5152069470047544926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 169
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc14320e3157fa020800000000000000
+      internalID: 2355229858363294156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_100
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 169
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f69b332c7c6c50800000000000000
+      internalID: 6659834439739570012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_101
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 169
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f434294b4f5e30530800000000000000
+      internalID: 3820149748104577871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_102
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 170
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d93ab4abeb8f8640800000000000000
+      internalID: 5084436348521822675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_103
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d1e9f571cd7a8a0800000000000000
+      internalID: -6293819961280422530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_104
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 170
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4fcdce08b2c52d0800000000000000
+      internalID: -3288705795157592901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_105
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 170
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855c5667326eea700800000000000000
+      internalID: 553632844197774680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_106
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 126
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d9edb430ea2670800000000000000
+      internalID: 8514864562626483165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_107
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 126
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7694ff23a7ee970800000000000000
+      internalID: 8786094282496370596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_108
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 126
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d9014ee17ad7cd0800000000000000
+      internalID: -2558705262159422089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_109
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 126
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7dac2798804c570800000000000000
+      internalID: 8485916984302294977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_110
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 85
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a111269f75fbed0800000000000000
+      internalID: -2396099748134053229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_111
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 85
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c719eaeb3582500800000000000000
+      internalID: 371639047695727688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_112
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 85
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa2f2fed4089e830800000000000000
+      internalID: 4100950007911230204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 85
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6981fbdce1ef5ef40800000000000000
+      internalID: 5757287106917374102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_114
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 85
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d2faf41d52c6ac0800000000000000
+      internalID: -3860669199648084731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_115
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 85
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655d9fc94ecc24120800000000000000
+      internalID: 2396703233972753750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_116
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 44
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1da163f535c8f00800000000000000
+      internalID: 1120362075703136684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 44
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa45713e098d7e70800000000000000
+      internalID: 9114591914920069873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_118
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55a84abaa96d3810800000000000000
+      internalID: 1746668412480300383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a5063a55718a4d0800000000000000
+      internalID: -3123220685000779157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_120
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 44
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37fdf784c11b430800000000000000
+      internalID: 3796847058558612399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_121
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 11
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d341905583ed2b0800000000000000
+      internalID: -5557942952252916369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_122
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 11
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3669a2f4de027f630800000000000000
+      internalID: 3960670600903169635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_123
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 11
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467f00acef3b18d30800000000000000
+      internalID: 4432021415201404772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_124
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 11
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d1072fb87de6d70800000000000000
+      internalID: 9038398498247023904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_125
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4876184636fcb0800000000000000
+      internalID: -4830613867065750553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kirby basic 2_126
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 86
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa7f2c28f2bec480800000000000000
+      internalID: -8876961036537726212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ce3a10463eaacf14b8c49b9a770e2287
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Kirby basic 2_0: 7612515468853352417
+      Kirby basic 2_1: -4329954692538711587
+      Kirby basic 2_10: 817284967628198228
+      Kirby basic 2_100: 6659834439739570012
+      Kirby basic 2_101: 3820149748104577871
+      Kirby basic 2_102: 5084436348521822675
+      Kirby basic 2_103: -6293819961280422530
+      Kirby basic 2_104: -3288705795157592901
+      Kirby basic 2_105: 553632844197774680
+      Kirby basic 2_106: 8514864562626483165
+      Kirby basic 2_107: 8786094282496370596
+      Kirby basic 2_108: -2558705262159422089
+      Kirby basic 2_109: 8485916984302294977
+      Kirby basic 2_11: -333412405001597631
+      Kirby basic 2_110: -2396099748134053229
+      Kirby basic 2_111: 371639047695727688
+      Kirby basic 2_112: 4100950007911230204
+      Kirby basic 2_113: 5757287106917374102
+      Kirby basic 2_114: -3860669199648084731
+      Kirby basic 2_115: 2396703233972753750
+      Kirby basic 2_116: 1120362075703136684
+      Kirby basic 2_117: 9114591914920069873
+      Kirby basic 2_118: 1746668412480300383
+      Kirby basic 2_119: -3123220685000779157
+      Kirby basic 2_12: 1059032189976766315
+      Kirby basic 2_120: 3796847058558612399
+      Kirby basic 2_121: -5557942952252916369
+      Kirby basic 2_122: 3960670600903169635
+      Kirby basic 2_123: 4432021415201404772
+      Kirby basic 2_124: 9038398498247023904
+      Kirby basic 2_125: -4830613867065750553
+      Kirby basic 2_126: -8876961036537726212
+      Kirby basic 2_13: -5941610036520656921
+      Kirby basic 2_14: -7438679136152099021
+      Kirby basic 2_15: -7517873256278035198
+      Kirby basic 2_16: 8784901470877873473
+      Kirby basic 2_17: 6259924189943741024
+      Kirby basic 2_18: -7385356313955221713
+      Kirby basic 2_19: -3562603670476628276
+      Kirby basic 2_2: -6333510295025314539
+      Kirby basic 2_20: 1455297201660124113
+      Kirby basic 2_21: -4300387173619541880
+      Kirby basic 2_22: -7063740367931067005
+      Kirby basic 2_23: -2070074156589552638
+      Kirby basic 2_24: -2214493253809077972
+      Kirby basic 2_25: 4156974040903633458
+      Kirby basic 2_26: -8117718566481314962
+      Kirby basic 2_27: -5112603076525954918
+      Kirby basic 2_28: -8595081004517153234
+      Kirby basic 2_29: 9054413101626839910
+      Kirby basic 2_3: 5926460984790863196
+      Kirby basic 2_30: -6532471102007607802
+      Kirby basic 2_31: 6596216784654553223
+      Kirby basic 2_32: -5151551687887174078
+      Kirby basic 2_33: -3588799579039582877
+      Kirby basic 2_34: 6876711217743234677
+      Kirby basic 2_35: -3617496111329710011
+      Kirby basic 2_36: 4950511893610479549
+      Kirby basic 2_37: -2710261752699098383
+      Kirby basic 2_38: -6104390380514178036
+      Kirby basic 2_39: -2553227432266008582
+      Kirby basic 2_4: -8857934507121044005
+      Kirby basic 2_40: 1385155817149754061
+      Kirby basic 2_41: 4385030657684901513
+      Kirby basic 2_42: 7687158272804458392
+      Kirby basic 2_43: -2055474481927046546
+      Kirby basic 2_44: 6660714545455541450
+      Kirby basic 2_45: 1142171738139809604
+      Kirby basic 2_46: -6680673649178268728
+      Kirby basic 2_47: -2150620319673187172
+      Kirby basic 2_48: 6567744609236623573
+      Kirby basic 2_49: -6217006385774727571
+      Kirby basic 2_5: -4548310384442760057
+      Kirby basic 2_50: -3281454997876403563
+      Kirby basic 2_51: -8633767357405681311
+      Kirby basic 2_52: -206648663223777988
+      Kirby basic 2_53: 1586292481306193881
+      Kirby basic 2_54: 4555010676301626449
+      Kirby basic 2_55: 7411317586266215552
+      Kirby basic 2_56: 7942763161477042264
+      Kirby basic 2_57: 6252611252400262917
+      Kirby basic 2_58: 6102977619634210046
+      Kirby basic 2_59: 2307672755273027523
+      Kirby basic 2_6: -6675479363488048081
+      Kirby basic 2_60: -6444435796174869374
+      Kirby basic 2_61: 4803078462822849744
+      Kirby basic 2_62: -7048939202625004050
+      Kirby basic 2_63: 4222491143241922412
+      Kirby basic 2_64: 3695089639891293208
+      Kirby basic 2_65: -5669094354632938391
+      Kirby basic 2_66: -2525956078351582987
+      Kirby basic 2_67: 5493135784989766097
+      Kirby basic 2_68: -6136273105853338682
+      Kirby basic 2_69: 8561633181697733262
+      Kirby basic 2_7: -3488448831826474786
+      Kirby basic 2_70: -4440476695137863955
+      Kirby basic 2_71: -7976771486696270107
+      Kirby basic 2_72: -4197834382427608946
+      Kirby basic 2_73: -4872392251457665501
+      Kirby basic 2_74: -2697805753291961975
+      Kirby basic 2_75: 4014723957842967600
+      Kirby basic 2_76: -806096412803026808
+      Kirby basic 2_77: 1929589379732770123
+      Kirby basic 2_78: 8176363495099339517
+      Kirby basic 2_79: -5026872792988687660
+      Kirby basic 2_8: -4022564240755647119
+      Kirby basic 2_80: -6890133888641634445
+      Kirby basic 2_81: -5416570121740040374
+      Kirby basic 2_82: -8461188403067948690
+      Kirby basic 2_83: 7941418342705875141
+      Kirby basic 2_84: -4369518623685726132
+      Kirby basic 2_85: -1514223985688250068
+      Kirby basic 2_86: 6942081527278912838
+      Kirby basic 2_87: 4942972154437371197
+      Kirby basic 2_88: -1769936496048302848
+      Kirby basic 2_89: -4541333182234605589
+      Kirby basic 2_9: 7392463508772482349
+      Kirby basic 2_90: -1398296364030948148
+      Kirby basic 2_91: 2690730409023479941
+      Kirby basic 2_92: -8661513077691396559
+      Kirby basic 2_93: 7117338472576847324
+      Kirby basic 2_94: -6372167559865269175
+      Kirby basic 2_95: -4727123198581880589
+      Kirby basic 2_96: 1261223505626835130
+      Kirby basic 2_97: -4412261384172127033
+      Kirby basic 2_98: 5152069470047544926
+      Kirby basic 2_99: 2355229858363294156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
