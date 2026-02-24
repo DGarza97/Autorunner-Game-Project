@@ -6,6 +6,7 @@ public class PlayerScript : MonoBehaviour
 {
     public float JumpForce;
     float score;
+    float highScore;
 
     [SerializeField]
     bool isGrounded = false;
@@ -14,12 +15,18 @@ public class PlayerScript : MonoBehaviour
     Rigidbody2D RB;
 
     public TMP_Text ScoreTxt;
+    public TMP_Text HighScoreTxt;
 
 
     private void Awake()
     {
         RB = GetComponent<Rigidbody2D>();
         score = 0;
+
+        // Shows the high score, but if there's no high score then it's 0
+        //Original Code: highScore = PlayerPrefs.GetFloat("HighScore", 0);
+        highScore = 0;
+        HighScoreTxt.text = "High Score: " + highScore.ToString("F");
     }
 
     // Update is called once per frame
@@ -37,7 +44,7 @@ public class PlayerScript : MonoBehaviour
         if(isAlive)
         {
             score += Time.deltaTime * 4;
-            ScoreTxt.text = "SCORE : " + score.ToString("F");
+            ScoreTxt.text = "Score: " + score.ToString("F");
         }
     }
 
@@ -54,7 +61,19 @@ public class PlayerScript : MonoBehaviour
         if (collision.gameObject.CompareTag("obstacle"))
         {
             isAlive = false;
+            CheckHighScore();
             Time.timeScale = 0;
+        }
+    }
+
+    // Checks high score when the player dies
+    void CheckHighScore() {
+        if (score > highScore) {
+            highScore = score;
+
+            PlayerPrefs.SetFloat("HighScore", highScore);
+            PlayerPrefs.Save();
+            HighScoreTxt.text = "High Score: " + highScore.ToString("F");
         }
     }
 }
